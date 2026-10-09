@@ -1,0 +1,8 @@
+{
+  "name": "Atelier Nord — Contemporary Design Objects & Living",
+  "description": "Curated modern furniture, acoustic hardware, precision lighting, and handcrafted objects for refined spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
